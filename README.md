@@ -6,7 +6,7 @@ pkg update ; pkg upgrade
 pkg install git
 pkg install python
 pip install requests
-git clone https://github.com/jubairbro/PY-ENC.git
+git clone [https://github.com/jubairbro/PY-ENC.git](https://github.com/jubairbro/UPDATE)
 cd UPDATE
 python BRO.py
 ```
