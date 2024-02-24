@@ -7,7 +7,7 @@ pkg install git
 pkg install python
 pip install requests
 pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urllib3 idna certifi requests
-git clone [https://github.com/jubairbro/PY-ENC.git](https://github.com/jubairbro/UPDATE)
+git clone https://github.com/jubairbro/UPDATE
 cd UPDATE
 python BRO.py
 ```
